@@ -63,7 +63,7 @@ function Footer() {
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum, consequatur.
           </Typography>
           <Typography mb="30px" sx={{ wordWrap: "break-word" }}>
-            <a href="mailto: Email: irakibul026@gmail.com">  Email: irakibul026@gmail.com</a>
+            <a href="mailto: Email: chavanrohini2612@gmail.com">  Email: chavanrohini2612@gmail.com</a>
           </Typography>
           <Typography mb="30px">(222)333-4444</Typography>
         </Box>
